@@ -1,6 +1,6 @@
 # Description
 
-This tool is intended for aggregating demographic information of individual COVID-19 cases reported. The goal of this tool is primarily to combine single cases into weekly reports of cases counted by age and sex. 
+This repository contains a cleaned dataset reporting weekly age and sex stratified COVID-19 cases, deaths, and hospitalizations from 15 countries. R tools included were used for aggregating demographic information of individual COVID-19 cases reported. The goal of this tool is primarily to combine single cases into weekly reports of cases counted by age and sex. 
 
 # Instructions for Use
 
