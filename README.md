@@ -11,6 +11,6 @@ R and RStudio required, RStudio 1.2.5 or better recommended. Download .R file an
 ## Citing
 If you use this data or R tools, please consider citing us.
 
-1. Leong, R., Lee, T-S., Chen, Z., Zhang, C., & Xu, J.P. (2021). _Global Temporal Patterns of Age-Group and Sex Distributions of COVID-19_. Manuscript Submitted for Publication, Institute of Infectious Diseases Research and Department of Biology, McMaster University, Hamilton, Canada.
+Leong, Russell; Lee, Tin-Suet J.; Chen, Zejia; Zhang, Chelsea; Xu, Jianping. 2021. "Global Temporal Patterns of Age Group and Sex Distributions of COVID-19" Infect. Dis. Rep. 13, no. 2: 582-596. https://doi.org/10.3390/idr13020054
 
 Email contact: chenz262 at mcmaster dot ca.
