@@ -13,4 +13,4 @@ If you use this data or R tools, please consider citing us.
 
 Leong, Russell; Lee, Tin-Suet J.; Chen, Zejia; Zhang, Chelsea; Xu, Jianping. 2021. "Global Temporal Patterns of Age Group and Sex Distributions of COVID-19" Infect. Dis. Rep. 13, no. 2: 582-596. https://doi.org/10.3390/idr13020054
 
-Email contact: chenz262 at mcmaster dot ca.
+Email contact: chenz262@mcmaster.ca.
